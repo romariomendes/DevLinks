@@ -40,8 +40,9 @@ body * {
 
 #container {
   /* border: 1px solid red; */
+  width: 100%;
+  max-width: 588px;
   margin: 16px auto;
-  width: 360px;
   padding: 0px 24px;
 }
 
